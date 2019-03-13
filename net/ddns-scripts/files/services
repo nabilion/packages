@@ -96,6 +96,13 @@
 "dyndns.it"		"http://[USERNAME]:[PASSWORD]@update.dyndns.it/nic/update?system=dyndns&hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
 
 "dyn.com"		"http://[USERNAME]:[PASSWORD]@members.dyndns.org/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
+
+"dynamicdomain.org" "http://[USERNAME]:[PASSWORD]@dyndns.dynamicdomain.org/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
+
+"dynamicdomain.net" "http://[USERNAME]:[PASSWORD]@dyndns.dynamicdomain.org/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
+
+"dyndns.fr" "http://[USERNAME]:[PASSWORD]@dyndns.dyndns.fr/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
+
 "dyndns.org"		"http://[USERNAME]:[PASSWORD]@members.dyndns.org/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
 
 "dyndnss.net"		"http://www.dyndnss.net/?user=[USERNAME]&pass=[PASSWORD]&domain=[DOMAIN]&updater=other"
@@ -103,6 +110,8 @@
 "dynsip.org"		"http://[USERNAME]:[PASSWORD]@dynsip.org/nic/update?hostname=[DOMAIN]&myip=[IP]"
 
 "dyns.net"		"http://www.dyns.net/postscript011.php?username=[USERNAME]&password=[PASSWORD]&host=[DOMAIN]&ip=[IP]"	"200"
+
+"dyndnspro.com" "http://[USERNAME]:[PASSWORD]@dyndns.dyndnspro.com/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
 
 "dynu.com"		"http://api.dynu.com/nic/update?hostname=[DOMAIN]&myip=[IP]&username=[USERNAME]&password=[PASSWORD]"
 
