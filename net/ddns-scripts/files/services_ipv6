@@ -62,6 +62,12 @@
 
 "duiadns.net"		"http://ip.duiadns.net/dynamic.duia?host=[DOMAIN]&password=[PASSWORD]&ip6=[IP]"
 
+
+"dyndns.fr"		"http://[USERNAME]:[PASSWORD]@dyndns.dyndns.fr/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
+"dynamicdoamin.net"		"http://[USERNAME]:[PASSWORD]@dyndns.dynamicdomain.net/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
+"dnsdynamique.com"  "http://[USERNAME]:[PASSWORD]@dyndns.dnsdynamique.com/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg
+"dyndnspro.com"  "http://[USERNAME]:[PASSWORD]@dyndns.dyndnspro.com/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg
+
 "dyn.com"		"http://[USERNAME]:[PASSWORD]@members.dyndns.org/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
 "dyndns.org"		"http://[USERNAME]:[PASSWORD]@members.dyndns.org/nic/update?hostname=[DOMAIN]&myip=[IP]"	"good|nochg"
 
